@@ -1,0 +1,3 @@
+Admin1,Admin-1,admin
+Student1,Student-1,student
+Lecturer1,Lecturer-1,lecturer
